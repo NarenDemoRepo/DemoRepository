@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 changing thr demo file of dev branch to see the difference in the dev and master branches
-=======
-this changes are in master brach only
->>>>>>> 13e9d7d (cherry pick test)
