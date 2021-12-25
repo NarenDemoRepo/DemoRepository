@@ -1,2 +1,1 @@
-updated the file of master branch into the dev branch
-updated the file in remote repository
+updated
